@@ -1,0 +1,7 @@
+D:\UnityProjects\Server\MyServer\MyServer\obj\Debug\MyServer.csprojAssemblyReference.cache
+D:\UnityProjects\Server\MyServer\MyServer\obj\Debug\MyServer.csproj.CoreCompileInputs.cache
+D:\UnityProjects\Server\MyServer\MyServer\bin\Debug\MyServer.pdb
+D:\UnityProjects\Server\MyServer\MyServer\obj\Debug\MyServer.pdb
+D:\UnityProjects\Server\MyServer\MyServer\bin\Debug\MyServer.dll.config
+D:\UnityProjects\Server\MyServer\MyServer\bin\Debug\MyServer.dll
+D:\UnityProjects\Server\MyServer\MyServer\obj\Debug\MyServer.dll

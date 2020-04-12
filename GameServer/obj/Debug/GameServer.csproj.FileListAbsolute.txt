@@ -1,0 +1,17 @@
+D:\UnityProjects\Server\MyServer\GameServer\obj\Debug\GameServer.csprojAssemblyReference.cache
+D:\UnityProjects\Server\MyServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\GameServer.exe.config
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\GameServer.exe
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\GameServer.pdb
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\Protocol.dll
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\MyServer.pdb
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\Protocol.pdb
+D:\UnityProjects\Server\MyServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\UnityProjects\Server\MyServer\GameServer\obj\Debug\GameServer.exe
+D:\UnityProjects\Server\MyServer\GameServer\obj\Debug\GameServer.pdb
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\MyServer.dll
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\MyServer.dll.config
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\MySql.Data.dll
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\Google.Protobuf.dll
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\BouncyCastle.Crypto.dll
+D:\UnityProjects\Server\MyServer\GameServer\bin\Debug\MySql.Data.xml

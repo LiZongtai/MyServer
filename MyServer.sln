@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServer", "MyServer\MyServer.csproj", "{3D27A6AB-D399-4578-B18A-43F38A33FA3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "GameServer\GameServer.csproj", "{9A23C430-A2DA-4831-A9AE-209981A0A3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{DB4B3694-6255-49CE-85E0-64BF36154968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D27A6AB-D399-4578-B18A-43F38A33FA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D27A6AB-D399-4578-B18A-43F38A33FA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D27A6AB-D399-4578-B18A-43F38A33FA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D27A6AB-D399-4578-B18A-43F38A33FA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A23C430-A2DA-4831-A9AE-209981A0A3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A23C430-A2DA-4831-A9AE-209981A0A3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A23C430-A2DA-4831-A9AE-209981A0A3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A23C430-A2DA-4831-A9AE-209981A0A3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4B3694-6255-49CE-85E0-64BF36154968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4B3694-6255-49CE-85E0-64BF36154968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4B3694-6255-49CE-85E0-64BF36154968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4B3694-6255-49CE-85E0-64BF36154968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A32349E2-E5DA-436A-926C-DEF41A9145B4}
+	EndGlobalSection
+EndGlobal

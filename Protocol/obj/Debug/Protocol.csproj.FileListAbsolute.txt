@@ -1,0 +1,8 @@
+D:\UnityProjects\Server\MyServer\Protocol\bin\Debug\Protocol.dll
+D:\UnityProjects\Server\MyServer\Protocol\bin\Debug\Protocol.pdb
+D:\UnityProjects\Server\MyServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\UnityProjects\Server\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\UnityProjects\Server\MyServer\Protocol\obj\Debug\Protocol.dll
+D:\UnityProjects\Server\MyServer\Protocol\obj\Debug\Protocol.pdb
+D:\UnityProjects\2D\CardGameProject\Assets\Scripts\Protocol.dll
+D:\UnityProjects\2D\CardGameProject\Assets\Scripts\Protocol.pdb
